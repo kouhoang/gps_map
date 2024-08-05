@@ -22,7 +22,6 @@
 
     ```bash
     git clone https://github.com/kouhoang/gps_map.git
-    cd your-repo
     ```
 
 2. **Cấu Hình API Key**
